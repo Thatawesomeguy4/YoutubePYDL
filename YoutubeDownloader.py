@@ -20,4 +20,3 @@ video_viewer_column = [
     [sg.Text(size=(40, 1), key="-TOUT-")],
     [sg.Image(key="-VIDEO-")],
 ]
-
